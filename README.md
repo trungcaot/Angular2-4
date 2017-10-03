@@ -9,7 +9,7 @@ Angular is a platform that makes it easy to build applications with the web. Ang
 - Ensure IIS installed (Windows)
 - Angular-CLI (Optional): run command line -> $ npm install -g @angular/cli
 
-### Knowledge basic
+### Before you start
 - HTML
 - CSS
 - Javascript
